@@ -1,3 +1,4 @@
+
 CREATE DATABASE IF NOT EXISTS gestao_pesquisas;
 USE gestao_pesquisas;
 
